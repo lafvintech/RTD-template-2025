@@ -7,6 +7,7 @@ Project
     :maxdepth: 1
 
     LED.md
+    LCD1602.md
 
 
 **1.2 Sound**
